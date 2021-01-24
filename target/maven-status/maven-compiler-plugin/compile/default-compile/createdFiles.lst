@@ -1,0 +1,5 @@
+dk\easyliving\dto\log\Log.class
+dk\easyliving\dto\units\LdrSensor.class
+dk\easyliving\dto\units\Iunit.class
+dk\easyliving\dto\units\PirSensor.class
+dk\easyliving\dto\units\RelayActivator.class
